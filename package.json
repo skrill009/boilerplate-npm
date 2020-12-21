@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Gerald Pabonita",
+	"description": "A web app for npm and api tutorial of FCC",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
