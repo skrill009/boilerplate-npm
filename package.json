@@ -4,6 +4,7 @@
 	"description": "A web app for npm and api tutorial of FCC",
 	"keywords": ["tutorial", "npm", "api", "node", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
