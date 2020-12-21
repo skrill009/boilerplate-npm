@@ -2,7 +2,13 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Gerald Pabonita",
 	"description": "A web app for npm and api tutorial of FCC",
-	"keywords": ["tutorial", "npm", "api", "node", "freecodecamp"],
+	"keywords": [
+		"tutorial",
+		"npm",
+		"api",
+		"node",
+		"freecodecamp"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
